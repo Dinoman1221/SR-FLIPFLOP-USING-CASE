@@ -90,4 +90,4 @@ endmodule
 
 **RESULTS**
 
-Thus the SR flipflop is implemented and verified.
+sucessfully implemented SR flipflop using verilog and validating their functionality using their functional tables
